@@ -1,0 +1,3 @@
+name,account,password,phone,id,school
+Alice,2300000000,23456,111111,111111,eecs
+

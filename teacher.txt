@@ -1,0 +1,3 @@
+name,account,password,phone,id,school
+zqj,t123,123,111111,111111,eecs
+s

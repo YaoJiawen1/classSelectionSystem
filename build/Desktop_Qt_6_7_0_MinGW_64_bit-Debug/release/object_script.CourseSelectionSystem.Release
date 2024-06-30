@@ -1,0 +1,14 @@
+release/admin.o
+release/course.o
+release/login.o
+release/main.o
+release/mainwindow.o
+release/student.o
+release/teacher.o
+release/user.o
+release/moc_admin.o
+release/moc_login.o
+release/moc_mainwindow.o
+release/moc_student.o
+release/moc_teacher.o
+release/moc_user.o
